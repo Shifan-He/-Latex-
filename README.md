@@ -1,4 +1,4 @@
-<img width="815" alt="截屏2023-12-18 18 24 10" src="https://github.com/Shifan-He/FZU-Latex-template/assets/55081157/f42b7694-9e04-4872-9f21-f56d14fa31d8"># 福州大学博士毕业论文Latex模版
+# 福州大学博士毕业论文Latex模版
 
 本模版是基于Yocto Han的《兰州大学研究生毕业论文模版》修改而来，感谢分享！
 
@@ -13,4 +13,6 @@
 ## 样例展示
 
 <img width="815" alt="example" src="https://github.com/Shifan-He/FZU-Latex-template/assets/55081157/334a112f-4f2c-431c-b497-91b3516103ef">
+
+
 
