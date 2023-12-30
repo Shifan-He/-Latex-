@@ -20,12 +20,13 @@
 
 %摘要标题：居中，4号黑体，段前0行，段后12磅，行距20磅
 \begin{center}
+\phantomsection
+\addcontentsline{toc}{section}{摘~要}  
 {\heitib \sihao 摘~要}
 \vspace{12pt}
 \end{center}
 
 %摘要正文：宋体小四，段前0行，段后0行，行距20磅，首行缩进2字符
-\addcontentsline{toc}{section}{摘~要}  
 \songti \xiaosihao
 \setlength{\baselineskip}{20pt} 
 
@@ -52,11 +53,12 @@
 
 %摘要：4号Arial Black，不加粗，居中，段前0行，段后12磅，行距20磅
 \begin{center}
+\phantomsection
+\addcontentsline{toc}{section}{{\large Abstract}}
 {\setmainfont{Arial Black} \sihao Abstract} 
 \vspace{12pt}
 \end{center}
 
-\addcontentsline{toc}{section}{{\large Abstract}}
 
 %英文摘要正文，小4 Times New Roman，段前0行，段后0行，行距20磅，首行缩进4个英文字母。
 \setmainfont{Times New Roman} \xiaosihao 
